@@ -1,0 +1,32 @@
+[
+  {
+    "question": "Which number is greater: 0.45 or 0.045?",
+    "options": ["0.45", "0.045", "They are equal"],
+    "correct": 0
+  },
+  {
+    "question": "Write the number 6.203 in words.",
+    "options": [
+      "Six and two hundred three thousandths",
+      "Six and two hundred three",
+      "Six and two hundred three ones",
+      "Six and two hundred and three"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Another bill reads as: 'forty-five point one two six'. Write this number in decimal form.",
+    "options": ["450.126", "45.1206", "45.1260", "45.126"],
+    "correct": 3
+  },
+  {
+    "question": "What is the place value of the digit 7 in the number 3.672?",
+    "options": ["Ones", "Tenths", "Hundredths", "Thousandths"],
+    "correct": 2
+  },
+  {
+    "question": "Convert 80.211 into a fraction.",
+    "options": ["80211/1000", "80211/100", "80211/10", "80211/10000"],
+    "correct": 0
+  }
+]
